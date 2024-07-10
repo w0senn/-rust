@@ -1,7 +1,7 @@
 {
   "version": 1,
   "canisters": {
-    "ecdsa_be": {
+    "ecdsa_be":  {
       "type": "rust",
       "package": "ecdsa_be",
       "candid": "src/ecdsa_be/interface.did"
